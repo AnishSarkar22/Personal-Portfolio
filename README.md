@@ -18,7 +18,7 @@ Technologies used:
   - Light/dark mode remembered by each user's localStorage
   - Responsive web design
     
-### How to run this website on your local machine
+### How to run this website on your local machine:
   - First clone this git on your local machine `git clone https://github.com/AnishSarkar22/Personal-Portfolio.git`
   - Install virtual environment `python3 -m venv .venv`
   - Run the virtual environment `. .venv/bin/activate`
