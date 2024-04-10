@@ -13,6 +13,7 @@ Technologies used:
 - Flask-Compress to speed up load times
 
 ### Features:
+  - Open-source code 
   - JavaScript to collapse and toggle elements
   - Swiper to add slides for projects
   - Light/dark mode remembered by each user's localStorage
