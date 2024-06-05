@@ -27,3 +27,5 @@
   - Install the dependencies `pip install -r requirements.txt` in the virtual environment
   - Run app `flask run`
   - The app should run at http://127.0.0.1:5000
+### The website should look like this: 
+<img width="1692" alt="SCR-20240410-dluu" src="https://github.com/AnishSarkar22/Personal-Portfolio/assets/104695310/d81fd680-a0a7-4f21-99ae-8a1c2231f5d4">
